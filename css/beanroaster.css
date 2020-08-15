@@ -100,3 +100,24 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load-image{
+    width:"15%";
+}
+
+#upload-image{
+    width:"61%";
+}
+
+#coffee-color{
+    width:"80%";
+}
+
+#coffee-comment{
+    width: 20%;
+	text-align: left
+}
+
+#Comments{
+    text-align:center
+}
